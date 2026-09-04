@@ -28,7 +28,7 @@ Topics Covered
 
 Assignment File
 
-📄 Fundamental_of_Computer_Assignment_Ritik_Raushan-1.pdf
+📄 Fundamental of Computer Assignment PDF
 
 This repository contains the completed assignment submitted as part of the TALLY PRIME & GST course.
 
